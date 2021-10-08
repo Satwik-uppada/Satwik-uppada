@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satwik-uppada
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning bachelor of technology in computer science and engineering  with specialisation data science(artificial inteligence and machine learning)
+- 🌱 I’m currently learning bachelor of technology in computer science and engineering  with specialisation in data science(artificial inteligence and machine learning)
 - 💞️ I’m looking to collaborate on with my dream company
 - 📫 How to reach me: 9393942994 my mobile number
 
