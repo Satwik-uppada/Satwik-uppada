@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Satwik-uppada
-- 👀 I’m interested in codind
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning bachelor of technology in computer science with specialisation data science(artificial inteligence and machine learning)
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on with dream company
+- 📫 How to reach me 9393942994 my mobile number
 
 <!---
 Satwik-uppada/Satwik-uppada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
