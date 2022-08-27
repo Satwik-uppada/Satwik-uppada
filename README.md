@@ -31,3 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satwik-uppada&show_icons=true&locale=en" alt="satwik-uppada" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&" alt="satwik-uppada" /></p>
+
+<a href="http://www.github.com/Satwik-uppada"><img src="https://activity-graph.herokuapp.com/graph?username=Satwik-uppada&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
