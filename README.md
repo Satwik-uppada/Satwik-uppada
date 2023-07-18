@@ -1,4 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
+<body>
 <h1 align="center"><font color:"red">Hi 👋, I'm Satwik</font></h1>
 <h3 align="center">A passionate Data scientist from India</h3> 
 <h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
@@ -50,4 +59,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&" alt="satwik-uppada" /></p>
 
 <a href="http://www.github.com/Satwik-uppada"><img src="https://activity-graph.herokuapp.com/graph?username=Satwik-uppada&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+</body>
+</html>
