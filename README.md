@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satwik</h1>
 <h3 align="center">A passionate Data scientist from India</h3> 
+<h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-uppada" /> </p>
 
@@ -11,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Satwik-uppada](github.com/Satwik-uppada)
 
-- 🦆 Follow my Kaggle Profile at[https://www.kaggle.com/satwikuppada](https://www.kaggle.com/satwikuppada)
+- 🦆 Follow my Kaggle Profile at [https://www.kaggle.com/satwikuppada](https://www.kaggle.com/satwikuppada)
 
 - 💬 Ask me about **Python, Python libraries like Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CustomTkinter**
 
