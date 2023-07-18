@@ -1,11 +1,11 @@
 
-<h1 align="center" style="color:red;">Hi 👋, I'm Satwik</h1>
+<h1 align="center", style="color:red;">Hi 👋, I'm Satwik</h1>
 <h3 align="center">A passionate Data scientist from India</h3> 
 <h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-uppada" /> </p>
 
-<p align="left" color:"red"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwik-uppada" alt="satwik-uppada" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwik-uppada" alt="satwik-uppada" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science,Machine Learning**
 
