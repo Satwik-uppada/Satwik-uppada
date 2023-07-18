@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-uppada" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwik-uppada" alt="satwik-uppada" /></a> </p>
+<p align="left" color:"red"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satwik-uppada" alt="satwik-uppada" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science,Machine Learning**
 
