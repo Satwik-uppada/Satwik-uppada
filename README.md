@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/Satwik-uppada](github.com/Satwik-uppada)
 
+- 🦆 Follow my Kaggle Profile at[https://www.kaggle.com/satwikuppada](https://www.kaggle.com/satwikuppada)
+
 - 💬 Ask me about **Python, Python libraries like Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CustomTkinter**
 
 - 📫 How to reach me **uppadasatwik@gmail.com**
