@@ -4,7 +4,7 @@
 </head>
 <body>
 <h1 align="center"><font color="red">Hi 👋, I'm Satwik</font></h1>
-<h3 align="center">A passionate Data scientist from India</h3> 
+<h3 align="center"><font color="blue">A passionate Data scientist from India</font></h3> 
 <h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-uppada" /> </p>
