@@ -3,7 +3,7 @@
 <head>
 </head>
 <body>
-<h1 align="center">Hi 👋, I'm Satwik</h1>
+<h1 align="center"><font color="red">Hi 👋, I'm Satwik</font></h1>
 <h3 align="center">A passionate Data scientist from India</h3> 
 <h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
 
