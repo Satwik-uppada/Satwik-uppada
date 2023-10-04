@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Data Science,Machine Learning**
 
-- 🌱 I’m currently learning **B.Tech computer science**
+- 🌱 I’m currently pursuing **Bachelor of Technology in computer science**
 
 - 👨‍💻 All of my projects are available at [github.com/Satwik-uppada](github.com/Satwik-uppada)
 
