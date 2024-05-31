@@ -19,7 +19,7 @@
 
 - 🦆 Follow my Kaggle Profile at [https://www.kaggle.com/satwikuppada](https://www.kaggle.com/satwikuppada)
 
-- 💬 Ask me about **Python, Python libraries like Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CustomTkinter, and BeautifulSoup.**
+- 💬 Ask me about **Python, Python libraries like Streamlit, Pandas, NumPy, Matplotlib, Seaborn, Tkinter, CustomTkinter, and BeautifulSoup.**
 
 - 📫 How to reach me **uppadasatwik@gmail.com**
 
