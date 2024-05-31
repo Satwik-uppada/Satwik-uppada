@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently pursuing **Bachelor of Technology in Computer Science and Engineering**
 
-- 👨‍💻 All of my projects are available at [github.com/Satwik-uppada](github.com/Satwik-uppada)
+- 👨‍💻 All of my projects are available at [github.com/Satwik-uppada](https://github.com/Satwik-uppada?tab=repositories)
 
 - 🦆 Follow my Kaggle Profile at [https://www.kaggle.com/satwikuppada](https://www.kaggle.com/satwikuppada)
 
