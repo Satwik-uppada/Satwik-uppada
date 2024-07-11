@@ -48,6 +48,8 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-uppada&theme=light" alt="Top Langs" />
 </p>
+
+
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light" alt="Satwik's Streaks" />
 </p>
