@@ -33,11 +33,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,sklearn,vscode,pycharm,anaconda,firebase,docker,github,git,ubuntu,linux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,sklearn,vscode,pycharm,anaconda,firebase,docker,github,git,ubuntu,linux&perline=7)](https://skillicons.dev)
 
 ![Satwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satwik-uppada&show_icons=true&theme=light)
-![Satwik's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-uppada&theme=light)
+![Satwik's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light)
+
 
 
 
