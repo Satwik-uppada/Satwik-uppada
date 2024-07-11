@@ -39,7 +39,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-uppada&theme=light)
 ![Satwik's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light)
 
+<h3 align='left'>Capstone Projects</h3>
+### HydroWatch: Water Quality Monitoring and Prediction System
 
+[![Hydrowatch](https://github.com/Satwik-uppada/Satwik-uppada/assets/92086645/0bada106-acf5-43f2-b71e-d5cf19a8508c)](https://github.com/Satwik-uppada/HydroWatch-Water-Quality-Monitoring-and-Prediction-System)
 
 
 </body>
