@@ -32,16 +32,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h2 style="border-bottom: 2px solid #333; padding-bottom: 5px;">Skills</h2>
-<p>Technical Skills: Python, HTML/CSS, MySQL</p>
 
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,html,css,sklearn,vscode,anaconda,firebase,docker,github,git,ubuntu,linux&perline=5)](https://skillicons.dev)
 
+![Satwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=satwik-uppada&show_icons=true&theme=light)
+![Satwik's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-uppada&theme=light)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=satwik-uppada&show_icons=true&locale=en" alt="satwik-uppada" /></p>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=satwik-uppada&show_icons=true&locale=en&layout=compact" alt="satwik-uppada" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&" alt="satwik-uppada" /></p>
 
 
 </body>
