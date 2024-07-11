@@ -40,9 +40,18 @@
 ![Satwik's Streaks](https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light)
 
 <h3 align='left'>Capstone Projects</h3>
-### HydroWatch: Water Quality Monitoring and Prediction System
+
+<h4>1. HydroWatch: Water Quality Monitoring and Prediction System</h4>
 
 [![Hydrowatch](https://github.com/Satwik-uppada/Satwik-uppada/assets/92086645/0bada106-acf5-43f2-b71e-d5cf19a8508c)](https://github.com/Satwik-uppada/HydroWatch-Water-Quality-Monitoring-and-Prediction-System)
+
+<h4>2. End-to-End Multi Disease detection using Machine Learning, Deployed using Docker</h4>
+
+[![health](https://github.com/Satwik-uppada/Dockerized-Health-Assistant/assets/92086645/29624108-edbf-4474-b1fd-b79bd6e6ab50)](https://github.com/Satwik-uppada/Dockerized-Health-Assistant)
+
+<h4>2. Amazon Product Sales Analysis</h4>
+
+[![amazon](https://github.com/Satwik-uppada/Data-Analysis-Capstone-Project/assets/92086645/138ac416-fb8c-4c5f-b06e-788d14cd3136)](https://github.com/Satwik-uppada/Amazon-Product-Sales-analysis-using-Python)
 
 
 </body>
