@@ -63,7 +63,7 @@
 
 <h4>2. End-to-End Multi Disease detection using Machine Learning, Deployed using Docker</h4>
 <a href="https://github.com/Satwik-uppada/Dockerized-Health-Assistant">
-    <img src="https://github.com/Satwik-uppada/Dockerized-Health-Assistant/assets/92086645/29624108-edbf-4474-b1fd-b79bd6e6ab50" alt="health" />
+    <img src="https://github.com/user-attachments/assets/f2239c8d-b402-4e9c-95c3-4279dbaa534f" alt="health" />
 </a>
 
 <h4>3. Amazon Product Sales Analysis</h4>
