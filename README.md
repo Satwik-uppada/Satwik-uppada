@@ -1,4 +1,5 @@
-![Science Google Form Header](https://github.com/Satwik-uppada/portfolio.github.io/assets/92086645/b074c68e-8e2a-4581-baf4-3a300796c7d0)
+![Science Google Form Header (1)](https://github.com/user-attachments/assets/762fa8a3-0307-4817-9924-3b13b09f1cce)
+
 
 <!DOCTYPE html>
 <html>
@@ -11,12 +12,12 @@
 <h3 align="center">I excel in translating data into actionable insights and helping organizations make data-driven decisions to optimize their operations and strategies</h3>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat" alt="satwik-uppada" />
+    <img src="https://komarev.com/ghpvc/?username=satwik-uppada&label=Profile%20views&color=0e75b6&style=flat&theme=react&bg_color=20232a" alt="satwik-uppada" />
 </p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=satwik-uppada" alt="satwik-uppada" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Satwik-uppada&theme=react&bg_color=20232a" alt="satwik-uppada" />
     </a>
 </p>
 
@@ -42,17 +43,16 @@
     <img src="https://skillicons.dev/icons?i=py,mysql,html,css,sklearn,vscode,pycharm,anaconda,firebase,docker,github,git,ubuntu,linux&perline=7" alt="skills" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=satwik-uppada&show_icons=true&theme=light" alt="Satwik's GitHub stats" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satwik-uppada&theme=light" alt="Top Langs" />
+
+## 📊 My GitHub Stats
+<p align="center">
+<a href="https://github.com/Satwik-uppada/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satwik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik-uppada&theme=react&hide_border=true&bg_color=0D1117"/></a>
 </p>
 
+<a href="https://github.com/Satwik-uppada/github-readme-stats"><img alt="Satwik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Satwik-uppada&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<a                                                                                                                                                                                                                                                           href="https://github.com/Satwik-uppada/github-readme-stats"><img alt="Satwik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satwik-uppada&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satwik-uppada&theme=light" alt="Satwik's Streaks" />
-</p>
+[![Satwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satwik-uppada&theme=react&bg_color=20232a&color=61dafb&line=a8d7ff&point=fafafa&area=true&hide_border=true)](https://github.com/Satwik-uppada/github-readme-activity-graph)
 
 <h3 align='left'>Capstone Projects</h3>
 
