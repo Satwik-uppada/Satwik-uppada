@@ -49,25 +49,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F79311.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23013243.svg?style=for-the-badge&logo=streamlit&logoColor=%white) ![NLTK](https://img.shields.io/badge/nltk-%23150458.svg?style=for-the-badge&logo=nltk&logoColor=%white) 
 
 
-
-## Capstone Projects
-
-<h4>1. HydroWatch: Water Quality Monitoring and Prediction System</h4>
-<a href="https://github.com/Satwik-uppada/HydroWatch-Water-Quality-Monitoring-and-Prediction-System">
-    <img src="https://github.com/Satwik-uppada/Satwik-uppada/assets/92086645/0bada106-acf5-43f2-b71e-d5cf19a8508c" alt="Hydrowatch" />
-</a>
-
-<h4>2. End-to-End Multi Disease detection using Machine Learning, Deployed using Docker</h4>
-<a href="https://github.com/Satwik-uppada/Dockerized-Health-Assistant">
-    <img src="https://github.com/user-attachments/assets/f2239c8d-b402-4e9c-95c3-4279dbaa534f" alt="health" />
-</a>
-
-<h4>3. Amazon Product Sales Analysis</h4>
-<a href="https://github.com/Satwik-uppada/Amazon-Product-Sales-analysis-using-Python">
-    <img src="https://github.com/Satwik-uppada/Data-Analysis-Capstone-Project/assets/92086645/138ac416-fb8c-4c5f-b06e-788d14cd3136" alt="amazon" />
-</a>
-
-
 ## 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/Satwik-uppada/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Satwik's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Satwik-uppada&theme=react&hide_border=true&bg_color=0D1117"/></a>
